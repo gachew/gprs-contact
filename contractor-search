@@ -8,7 +8,7 @@
     letter-spacing: 0.5px;
 }
 #search-zip-code{
-    width: 350px;
+    width: auto;
 }
 </style>
 <!--Zip Search Begin-->
