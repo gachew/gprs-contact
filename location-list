@@ -73,7 +73,7 @@ if (screen.width <= 800) {
 
 var address_list_3 = null;
 var ver = Date.now();
-var json_file = "https://projects.gp-radar.com/locations.json?v="+ver;
+var json_file = "https://gprsfinder.com/locations.json?v="+ver;
 
 
 // Async request2 to load and parse the json_file into address_list_3 object
